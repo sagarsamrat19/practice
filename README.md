@@ -1,4 +1,3 @@
 # practice
-practice for coding
-<\n>
+practice for coding <br />
 author:  sagar samrat
